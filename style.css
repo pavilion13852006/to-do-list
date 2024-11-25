@@ -51,6 +51,7 @@ main ul li .delete-btn{
     color: #fff;
     border: none;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 .add-form{
